@@ -4,5 +4,5 @@ A text summarizer built with pre-trained BART model
 
 ## How to run
 ```
-python main.py
+$ python main.py
 ```
